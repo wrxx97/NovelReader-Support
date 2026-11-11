@@ -1,6 +1,8 @@
-# 声页听吟 · 技术支持
+# 声页听吟 · 官方网站
 
-官方技术支持页面： https://wrxx97.github.io/NovelReader-Support/
+产品首页： https://wrxx97.github.io/NovelReader-Support/
+
+官方技术支持页面： https://wrxx97.github.io/NovelReader-Support/support.html
 
 隐私政策： https://wrxx97.github.io/NovelReader-Support/privacy.html
 
